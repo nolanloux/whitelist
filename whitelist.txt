@@ -1,5 +1,2 @@
 # Lista de HWIDs autorizados
 # Pon un HWID por linea
-A1B2C3D4
-E5F6G7H8
-12345678
