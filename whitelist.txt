@@ -1,3 +1,4 @@
 # Lista de HWIDs autorizados
 # Pon un HWID por linea
 E62A7EDD
+C6187513
