@@ -1,4 +1,3 @@
 # Lista de HWIDs autorizados
 # Pon un HWID por linea
-127A0537
-C6187513
+2A7EDD
